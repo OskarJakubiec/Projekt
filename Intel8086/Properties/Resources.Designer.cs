@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Intel886.Properties
+namespace Intel8086.Properties
 {
 
 
