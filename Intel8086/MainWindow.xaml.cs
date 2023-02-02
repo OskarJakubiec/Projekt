@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 
-namespace Intel886
+namespace Intel8086
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
