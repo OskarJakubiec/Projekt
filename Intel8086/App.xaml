@@ -1,4 +1,4 @@
-﻿<Application x:Class="Intel886.App"
+﻿<Application x:Class="Intel8086.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:Intel886"
