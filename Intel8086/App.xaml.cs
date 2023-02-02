@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Intel886
+namespace Intel8086
 {
     /// <summary>
     /// Interaction logic for App.xaml
